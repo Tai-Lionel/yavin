@@ -1,0 +1,41 @@
+.xl-text {
+    font-size: 5rem;
+}
+
+.decoration-star-1 {
+    max-width: 30%;
+    top: 30%;
+    left: -200px;
+}
+
+.decoration-star-2 {
+    max-width: 30%;
+    top: 30%;
+    right: 0px;
+}
+
+.decoration-star-3 {
+    max-width: 30%;
+    top: 10%;
+    left: -150px;
+}
+
+.decoration-star-4 {
+    width: 30%;
+    top: 100px;
+    right: 0px;
+}
+
+@media (max-width: 992px) {
+    .decoration-star-1 {
+        width: 100%;
+        top: 30%;
+        left: -100px;
+    }
+
+    .decoration-star-2 {
+        max-width: 30%;
+        top: 30%;
+        right: 0px;
+    }
+}
